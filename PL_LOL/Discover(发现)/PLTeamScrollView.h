@@ -10,7 +10,8 @@
 
 @protocol PLTeamScrollViewDelegate <NSObject>
 
-@optional;
+@optional
+
 - (void)teamIconClickWithTag:(NSInteger)tag;
 
 @end

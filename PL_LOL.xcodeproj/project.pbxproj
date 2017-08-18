@@ -43,6 +43,7 @@
 		76BE3E2C1F46900D00357DB0 /* PLClubView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E2B1F46900D00357DB0 /* PLClubView.m */; };
 		76BE3E2F1F46901F00357DB0 /* PLUserCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E2E1F46901F00357DB0 /* PLUserCell.m */; };
 		76BE3E321F46904500357DB0 /* PLCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E311F46904500357DB0 /* PLCustomBtn.m */; };
+		76BE3E431F46957900357DB0 /* TeamView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E421F46957900357DB0 /* TeamView.m */; };
 		76E52DBD1F455C7E007C574A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBC1F455C7E007C574A /* main.m */; };
 		76E52DC01F455C7E007C574A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBF1F455C7E007C574A /* AppDelegate.m */; };
 		76E52DC31F455C7E007C574A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DC21F455C7E007C574A /* ViewController.m */; };
@@ -146,6 +147,8 @@
 		76BE3E2E1F46901F00357DB0 /* PLUserCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLUserCell.m; sourceTree = "<group>"; };
 		76BE3E301F46904500357DB0 /* PLCustomBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLCustomBtn.h; sourceTree = "<group>"; };
 		76BE3E311F46904500357DB0 /* PLCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCustomBtn.m; sourceTree = "<group>"; };
+		76BE3E411F46957900357DB0 /* TeamView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamView.h; sourceTree = "<group>"; };
+		76BE3E421F46957900357DB0 /* TeamView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamView.m; sourceTree = "<group>"; };
 		76E52DB81F455C7E007C574A /* PL_LOL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PL_LOL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76E52DBC1F455C7E007C574A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		76E52DBE1F455C7E007C574A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../AppDelegate.h; sourceTree = "<group>"; };
@@ -390,6 +393,8 @@
 				76BE3E251F468FDE00357DB0 /* PLSectionCell.m */,
 				76BE3E271F468FEF00357DB0 /* PLView.h */,
 				76BE3E281F468FEF00357DB0 /* PLView.m */,
+				76BE3E411F46957900357DB0 /* TeamView.h */,
+				76BE3E421F46957900357DB0 /* TeamView.m */,
 				76BE3E2A1F46900D00357DB0 /* PLClubView.h */,
 				76BE3E2B1F46900D00357DB0 /* PLClubView.m */,
 				76BE3E2D1F46901F00357DB0 /* PLUserCell.h */,
@@ -849,6 +854,7 @@
 			files = (
 				76BE3E141F466C8E00357DB0 /* SettingSwichItem.m in Sources */,
 				76BE3E051F46691700357DB0 /* PLListItem.m in Sources */,
+				76BE3E431F46957900357DB0 /* TeamView.m in Sources */,
 				76A341511F45914400639F68 /* UIView+Frame.m in Sources */,
 				76BE3DED1F4665A500357DB0 /* TencentAccountModel.m in Sources */,
 				76BE3E201F468F2500357DB0 /* PLTeamScrollView.m in Sources */,

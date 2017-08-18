@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "DiscoverModel.h"
 @interface PLView : UIView
+@property (nonatomic, strong) DiscoverModel *item;
 
+
+@property (nonatomic, strong) UIImageView *icon;
+@property (nonatomic, strong) UILabel *title;
 @end

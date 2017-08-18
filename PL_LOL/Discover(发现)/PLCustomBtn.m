@@ -10,12 +10,10 @@
 
 @implementation PLCustomBtn
 
-/*
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
-- (void)drawRect:(CGRect)rect {
-    // Drawing code
+- (void)layoutSubviews {
+    [super layoutSubviews];
+    self.imageView.frame = CGRectMake(self.titleLabel.width + 3, 0, self.imageView.width, self.imageView.height);
+    self.titleLabel.frame = CGRectMake(-3, 0, self.titleLabel.width, self.titleLabel.height);
 }
-*/
 
 @end

@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+@class TeamModel;
 @interface TeamView : UIView
 
+@property (nonatomic, strong) TeamModel *item;
 @end

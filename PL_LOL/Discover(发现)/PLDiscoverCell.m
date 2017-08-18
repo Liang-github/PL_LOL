@@ -7,18 +7,25 @@
 //
 
 #import "PLDiscoverCell.h"
-
+#import <UIImageView+WebCache.h>
 @implementation PLDiscoverCell
 
-- (void)awakeFromNib {
-    [super awakeFromNib];
-    // Initialization code
+- (instancetype)init {
+    self = [super init];
+    if (self) {
+        _icon = [[UIImageView alloc] init];
+        _icon.frame = CGRectMake(20, 10, 25, 25);
+        [self.contentView addSubview:_icon];
+        
+        _title = [[UILabel alloc] init];
+        _title.frame = CGRectMake(65, 13, 8, 18);
+        [self.contentView addSubview:_title];
+    }
+    return self;
 }
-
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated {
-    [super setSelected:selected animated:animated];
-
-    // Configure the view for the selected state
+- (void)setItem:(DiscoverModel *)item {
+    _item = item;
+    self.title.text = item.title;
+    [self.icon sd_setImageWithURL:[NSURL URLWithString:item.image_url_big]];
 }
-
 @end
