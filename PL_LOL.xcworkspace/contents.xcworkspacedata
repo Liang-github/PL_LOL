@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TeamView.h">
+   </FileRef>
+   <FileRef
+      location = "group:TeamView.m">
+   </FileRef>
+   <FileRef
       location = "group:PL_LOL.xcodeproj">
    </FileRef>
    <FileRef

@@ -1,0 +1,38 @@
+//
+//  PrefixHeader.pch
+//  LOL
+//
+//  Created by cy on 16/1/14.
+//  Copyright © 2016年 cy. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define kColor(a,b,c) [UIColor colorWithRed:a/255.0 green:b/255.0 blue:c/255.0 alpha:1];
+#define WeakSelf __weak typeof(self) weakSelf = self;
+#define kNaviColor [UIColor colorWithRed:219/255.0 green:170/255.0 blue:117/255.0 alpha:1];
+#define kScreenW [UIScreen mainScreen].bounds.size.width
+#define kScreenH [UIScreen mainScreen].bounds.size.height
+#import "UIView+Frame.h"
+#import "UIImage+RenderingMode.h"
+#import "NSDate+time.h"
+#import "CYNetWorkTools.h"
+#import "UIBarButtonItem+Extension.h"
+#import "CYConst.h"
+#import "NSMutableArray+array.h"
+#import <Masonry.h>
+// 日志输出
+#ifdef DEBUG // 开发阶段-DEBUG阶段:使用Log
+#define MYLog(...) NSLog(@"%@",__VA_ARGS__);
+#define LDLog(...) NSLog(@"%ld",__VA_ARGS__);
+#else // 发布阶段-上线阶段:移除Log
+#define MYLog(...);
+#endif
+
+
+
+#endif /* PrefixHeader_pch */
+
+
