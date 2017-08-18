@@ -44,6 +44,10 @@
 		76BE3E2F1F46901F00357DB0 /* PLUserCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E2E1F46901F00357DB0 /* PLUserCell.m */; };
 		76BE3E321F46904500357DB0 /* PLCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E311F46904500357DB0 /* PLCustomBtn.m */; };
 		76BE3E431F46957900357DB0 /* TeamView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E421F46957900357DB0 /* TeamView.m */; };
+		76C81D781F46C86800D08CE4 /* PLDiscoverTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D771F46C86800D08CE4 /* PLDiscoverTableViewController.m */; };
+		76C81D7B1F46C89400D08CE4 /* PLBaseClubController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D7A1F46C89400D08CE4 /* PLBaseClubController.m */; };
+		76C81D7E1F46C8D500D08CE4 /* PLClubNowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D7D1F46C8D500D08CE4 /* PLClubNowController.m */; };
+		76C81D811F46C8EC00D08CE4 /* PLPersonController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D801F46C8EC00D08CE4 /* PLPersonController.m */; };
 		76E52DBD1F455C7E007C574A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBC1F455C7E007C574A /* main.m */; };
 		76E52DC01F455C7E007C574A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBF1F455C7E007C574A /* AppDelegate.m */; };
 		76E52DC31F455C7E007C574A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DC21F455C7E007C574A /* ViewController.m */; };
@@ -149,6 +153,14 @@
 		76BE3E311F46904500357DB0 /* PLCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCustomBtn.m; sourceTree = "<group>"; };
 		76BE3E411F46957900357DB0 /* TeamView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamView.h; sourceTree = "<group>"; };
 		76BE3E421F46957900357DB0 /* TeamView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamView.m; sourceTree = "<group>"; };
+		76C81D761F46C86800D08CE4 /* PLDiscoverTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLDiscoverTableViewController.h; sourceTree = "<group>"; };
+		76C81D771F46C86800D08CE4 /* PLDiscoverTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLDiscoverTableViewController.m; sourceTree = "<group>"; };
+		76C81D791F46C89400D08CE4 /* PLBaseClubController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLBaseClubController.h; sourceTree = "<group>"; };
+		76C81D7A1F46C89400D08CE4 /* PLBaseClubController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLBaseClubController.m; sourceTree = "<group>"; };
+		76C81D7C1F46C8D500D08CE4 /* PLClubNowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLClubNowController.h; sourceTree = "<group>"; };
+		76C81D7D1F46C8D500D08CE4 /* PLClubNowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLClubNowController.m; sourceTree = "<group>"; };
+		76C81D7F1F46C8EC00D08CE4 /* PLPersonController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLPersonController.h; sourceTree = "<group>"; };
+		76C81D801F46C8EC00D08CE4 /* PLPersonController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLPersonController.m; sourceTree = "<group>"; };
 		76E52DB81F455C7E007C574A /* PL_LOL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PL_LOL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76E52DBC1F455C7E007C574A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		76E52DBE1F455C7E007C574A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../AppDelegate.h; sourceTree = "<group>"; };
@@ -378,6 +390,14 @@
 		76BE3DEE1F4666C900357DB0 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				76C81D761F46C86800D08CE4 /* PLDiscoverTableViewController.h */,
+				76C81D771F46C86800D08CE4 /* PLDiscoverTableViewController.m */,
+				76C81D791F46C89400D08CE4 /* PLBaseClubController.h */,
+				76C81D7A1F46C89400D08CE4 /* PLBaseClubController.m */,
+				76C81D7C1F46C8D500D08CE4 /* PLClubNowController.h */,
+				76C81D7D1F46C8D500D08CE4 /* PLClubNowController.m */,
+				76C81D7F1F46C8EC00D08CE4 /* PLPersonController.h */,
+				76C81D801F46C8EC00D08CE4 /* PLPersonController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -832,7 +852,7 @@
 		};
 		A9F43A818410541C39208BE6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 8;
 			files = (
 			);
 			inputPaths = (
@@ -840,7 +860,7 @@
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
+			runOnlyForDeploymentPostprocessing = 1;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PL_LOL/Pods-PL_LOL-resources.sh\"\n";
 			showEnvVarsInLog = 0;
@@ -865,11 +885,13 @@
 				76A341601F45932800639F68 /* CYRefreshTool.m in Sources */,
 				76BE3E0E1F466B1700357DB0 /* SettingGroupItem.m in Sources */,
 				76BE3E2F1F46901F00357DB0 /* PLUserCell.m in Sources */,
+				76C81D811F46C8EC00D08CE4 /* PLPersonController.m in Sources */,
 				76E52DC31F455C7E007C574A /* ViewController.m in Sources */,
 				76BE3E2C1F46900D00357DB0 /* PLClubView.m in Sources */,
 				76A3415E1F45932800639F68 /* CYCacheTool.m in Sources */,
 				76A3414D1F45914400639F68 /* NSDate+time.m in Sources */,
 				76BE3E021F4668A100357DB0 /* UserInfoModel.m in Sources */,
+				76C81D7E1F46C8D500D08CE4 /* PLClubNowController.m in Sources */,
 				76BE3E1A1F466E1C00357DB0 /* PLLoginViewController.m in Sources */,
 				76A341611F45932800639F68 /* CYShareTool.m in Sources */,
 				76A3415F1F45932800639F68 /* CYNetWorkTools.m in Sources */,
@@ -880,10 +902,12 @@
 				76BE3DFC1F46679200357DB0 /* DiscoverModel.m in Sources */,
 				76A3416D1F4596A800639F68 /* VistorView.m in Sources */,
 				76E52DC01F455C7E007C574A /* AppDelegate.m in Sources */,
+				76C81D781F46C86800D08CE4 /* PLDiscoverTableViewController.m in Sources */,
 				76BE3E321F46904500357DB0 /* PLCustomBtn.m in Sources */,
 				76A341671F4593C200639F68 /* TabBarController.m in Sources */,
 				76E52DBD1F455C7E007C574A /* main.m in Sources */,
 				76BE3E261F468FDE00357DB0 /* PLSectionCell.m in Sources */,
+				76C81D7B1F46C89400D08CE4 /* PLBaseClubController.m in Sources */,
 				76BE3E111F466B8F00357DB0 /* SettingItem.m in Sources */,
 				76BE3E291F468FEF00357DB0 /* PLView.m in Sources */,
 				76BE3E1D1F466E2900357DB0 /* PLOtherLoginViewController.m in Sources */,
@@ -1040,6 +1064,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PREFIX_HEADER = "PL_LOL/Others(其它)/PrefixHeader.pch";
 				INFOPLIST_FILE = PL_LOL/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PL.PL-LOL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1053,6 +1078,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PREFIX_HEADER = "PL_LOL/Others(其它)/PrefixHeader.pch";
 				INFOPLIST_FILE = PL_LOL/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PL.PL-LOL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
