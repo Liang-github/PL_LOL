@@ -44,13 +44,37 @@
 		76BE3E2F1F46901F00357DB0 /* PLUserCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E2E1F46901F00357DB0 /* PLUserCell.m */; };
 		76BE3E321F46904500357DB0 /* PLCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E311F46904500357DB0 /* PLCustomBtn.m */; };
 		76BE3E431F46957900357DB0 /* TeamView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76BE3E421F46957900357DB0 /* TeamView.m */; };
+		76C16E9C1F4A599E0097FC7C /* PLFriendTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16E9B1F4A599E0097FC7C /* PLFriendTableViewController.m */; };
+		76C16E9F1F4A5ADE0097FC7C /* VistorView1.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16E9E1F4A5ADE0097FC7C /* VistorView1.m */; };
+		76C16EA21F4A5AEA0097FC7C /* VistorView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EA11F4A5AEA0097FC7C /* VistorView2.m */; };
+		76C16EA51F4A5EBC0097FC7C /* PLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EA41F4A5EBC0097FC7C /* PLButton.m */; };
+		76C16EA81F4A5ED40097FC7C /* PLCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EA71F4A5ED40097FC7C /* PLCustomView.m */; };
+		76C16EAB1F4A5EE90097FC7C /* PLMessageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EAA1F4A5EE90097FC7C /* PLMessageCell.m */; };
+		76C16EAE1F4A5F050097FC7C /* PLScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EAD1F4A5F050097FC7C /* PLScrollView.m */; };
+		76C16EB11F4A5F190097FC7C /* PLShareView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EB01F4A5F190097FC7C /* PLShareView.m */; };
+		76C16EB61F4A6DFE0097FC7C /* PLBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EB51F4A6DFE0097FC7C /* PLBaseViewController.m */; };
+		76C16EB91F4A6E190097FC7C /* PLContaintViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EB81F4A6E190097FC7C /* PLContaintViewController.m */; };
+		76C16EBC1F4A6E310097FC7C /* PLWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EBB1F4A6E310097FC7C /* PLWebViewController.m */; };
+		76C16EBF1F4A6E630097FC7C /* PLActivityTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EBE1F4A6E630097FC7C /* PLActivityTableViewController.m */; };
+		76C16EC21F4A6E8D0097FC7C /* PLCompetitionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EC11F4A6E8D0097FC7C /* PLCompetitionTableViewController.m */; };
+		76C16EC51F4A6EA70097FC7C /* PLFunnyTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EC41F4A6EA70097FC7C /* PLFunnyTableViewController.m */; };
+		76C16EC81F4A6EC40097FC7C /* PLGoverTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EC71F4A6EC40097FC7C /* PLGoverTableViewController.m */; };
+		76C16ECB1F4A6EDA0097FC7C /* PLMessageTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ECA1F4A6EDA0097FC7C /* PLMessageTableViewController.m */; };
+		76C16ECE1F4A6EF80097FC7C /* PLTacticTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ECD1F4A6EF80097FC7C /* PLTacticTableViewController.m */; };
+		76C16ED11F4A6F130097FC7C /* PLVideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ED01F4A6F130097FC7C /* PLVideoViewController.m */; };
+		76C16ED41F4AA1C20097FC7C /* HeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ED31F4AA1C20097FC7C /* HeadView.m */; };
+		76C16ED71F4AA4860097FC7C /* PLMyTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ED61F4AA4860097FC7C /* PLMyTableViewController.m */; };
+		76C16EDA1F4AA4DA0097FC7C /* PLFootView.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16ED91F4AA4DA0097FC7C /* PLFootView.m */; };
+		76C16EDD1F4AA4EC0097FC7C /* PLSettingCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EDC1F4AA4EC0097FC7C /* PLSettingCell.m */; };
+		76C16EE01F4AA50F0097FC7C /* PLSettingController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EDF1F4AA50F0097FC7C /* PLSettingController.m */; };
+		76C16EE31F4AA5240097FC7C /* PLCacheController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EE21F4AA5240097FC7C /* PLCacheController.m */; };
+		76C16EE61F4AA9100097FC7C /* SettingArrowItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C16EE51F4AA9100097FC7C /* SettingArrowItem.m */; };
 		76C81D781F46C86800D08CE4 /* PLDiscoverTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D771F46C86800D08CE4 /* PLDiscoverTableViewController.m */; };
 		76C81D7B1F46C89400D08CE4 /* PLBaseClubController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D7A1F46C89400D08CE4 /* PLBaseClubController.m */; };
 		76C81D7E1F46C8D500D08CE4 /* PLClubNowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D7D1F46C8D500D08CE4 /* PLClubNowController.m */; };
 		76C81D811F46C8EC00D08CE4 /* PLPersonController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C81D801F46C8EC00D08CE4 /* PLPersonController.m */; };
 		76E52DBD1F455C7E007C574A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBC1F455C7E007C574A /* main.m */; };
 		76E52DC01F455C7E007C574A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DBF1F455C7E007C574A /* AppDelegate.m */; };
-		76E52DC31F455C7E007C574A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DC21F455C7E007C574A /* ViewController.m */; };
 		76E52DC61F455C7E007C574A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76E52DC41F455C7E007C574A /* Main.storyboard */; };
 		76E52DCB1F455C7E007C574A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76E52DC91F455C7E007C574A /* LaunchScreen.storyboard */; };
 		76E52DD61F455C7F007C574A /* PL_LOLTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E52DD51F455C7F007C574A /* PL_LOLTests.m */; };
@@ -153,6 +177,56 @@
 		76BE3E311F46904500357DB0 /* PLCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCustomBtn.m; sourceTree = "<group>"; };
 		76BE3E411F46957900357DB0 /* TeamView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamView.h; sourceTree = "<group>"; };
 		76BE3E421F46957900357DB0 /* TeamView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamView.m; sourceTree = "<group>"; };
+		76C16E9A1F4A599E0097FC7C /* PLFriendTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLFriendTableViewController.h; sourceTree = "<group>"; };
+		76C16E9B1F4A599E0097FC7C /* PLFriendTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLFriendTableViewController.m; sourceTree = "<group>"; };
+		76C16E9D1F4A5ADE0097FC7C /* VistorView1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VistorView1.h; sourceTree = "<group>"; };
+		76C16E9E1F4A5ADE0097FC7C /* VistorView1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VistorView1.m; sourceTree = "<group>"; };
+		76C16EA01F4A5AEA0097FC7C /* VistorView2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VistorView2.h; sourceTree = "<group>"; };
+		76C16EA11F4A5AEA0097FC7C /* VistorView2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VistorView2.m; sourceTree = "<group>"; };
+		76C16EA31F4A5EBC0097FC7C /* PLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLButton.h; sourceTree = "<group>"; };
+		76C16EA41F4A5EBC0097FC7C /* PLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLButton.m; sourceTree = "<group>"; };
+		76C16EA61F4A5ED40097FC7C /* PLCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLCustomView.h; sourceTree = "<group>"; };
+		76C16EA71F4A5ED40097FC7C /* PLCustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCustomView.m; sourceTree = "<group>"; };
+		76C16EA91F4A5EE90097FC7C /* PLMessageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLMessageCell.h; sourceTree = "<group>"; };
+		76C16EAA1F4A5EE90097FC7C /* PLMessageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLMessageCell.m; sourceTree = "<group>"; };
+		76C16EAC1F4A5F050097FC7C /* PLScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLScrollView.h; sourceTree = "<group>"; };
+		76C16EAD1F4A5F050097FC7C /* PLScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLScrollView.m; sourceTree = "<group>"; };
+		76C16EAF1F4A5F190097FC7C /* PLShareView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLShareView.h; sourceTree = "<group>"; };
+		76C16EB01F4A5F190097FC7C /* PLShareView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLShareView.m; sourceTree = "<group>"; };
+		76C16EB41F4A6DFE0097FC7C /* PLBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLBaseViewController.h; sourceTree = "<group>"; };
+		76C16EB51F4A6DFE0097FC7C /* PLBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLBaseViewController.m; sourceTree = "<group>"; };
+		76C16EB71F4A6E190097FC7C /* PLContaintViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLContaintViewController.h; sourceTree = "<group>"; };
+		76C16EB81F4A6E190097FC7C /* PLContaintViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLContaintViewController.m; sourceTree = "<group>"; };
+		76C16EBA1F4A6E310097FC7C /* PLWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLWebViewController.h; sourceTree = "<group>"; };
+		76C16EBB1F4A6E310097FC7C /* PLWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLWebViewController.m; sourceTree = "<group>"; };
+		76C16EBD1F4A6E630097FC7C /* PLActivityTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLActivityTableViewController.h; sourceTree = "<group>"; };
+		76C16EBE1F4A6E630097FC7C /* PLActivityTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLActivityTableViewController.m; sourceTree = "<group>"; };
+		76C16EC01F4A6E8D0097FC7C /* PLCompetitionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLCompetitionTableViewController.h; sourceTree = "<group>"; };
+		76C16EC11F4A6E8D0097FC7C /* PLCompetitionTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCompetitionTableViewController.m; sourceTree = "<group>"; };
+		76C16EC31F4A6EA70097FC7C /* PLFunnyTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLFunnyTableViewController.h; sourceTree = "<group>"; };
+		76C16EC41F4A6EA70097FC7C /* PLFunnyTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLFunnyTableViewController.m; sourceTree = "<group>"; };
+		76C16EC61F4A6EC40097FC7C /* PLGoverTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLGoverTableViewController.h; sourceTree = "<group>"; };
+		76C16EC71F4A6EC40097FC7C /* PLGoverTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLGoverTableViewController.m; sourceTree = "<group>"; };
+		76C16EC91F4A6EDA0097FC7C /* PLMessageTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLMessageTableViewController.h; sourceTree = "<group>"; };
+		76C16ECA1F4A6EDA0097FC7C /* PLMessageTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLMessageTableViewController.m; sourceTree = "<group>"; };
+		76C16ECC1F4A6EF80097FC7C /* PLTacticTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLTacticTableViewController.h; sourceTree = "<group>"; };
+		76C16ECD1F4A6EF80097FC7C /* PLTacticTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLTacticTableViewController.m; sourceTree = "<group>"; };
+		76C16ECF1F4A6F130097FC7C /* PLVideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLVideoViewController.h; sourceTree = "<group>"; };
+		76C16ED01F4A6F130097FC7C /* PLVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLVideoViewController.m; sourceTree = "<group>"; };
+		76C16ED21F4AA1C20097FC7C /* HeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeadView.h; sourceTree = "<group>"; };
+		76C16ED31F4AA1C20097FC7C /* HeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeadView.m; sourceTree = "<group>"; };
+		76C16ED51F4AA4860097FC7C /* PLMyTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLMyTableViewController.h; sourceTree = "<group>"; };
+		76C16ED61F4AA4860097FC7C /* PLMyTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLMyTableViewController.m; sourceTree = "<group>"; };
+		76C16ED81F4AA4DA0097FC7C /* PLFootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLFootView.h; sourceTree = "<group>"; };
+		76C16ED91F4AA4DA0097FC7C /* PLFootView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLFootView.m; sourceTree = "<group>"; };
+		76C16EDB1F4AA4EC0097FC7C /* PLSettingCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLSettingCell.h; sourceTree = "<group>"; };
+		76C16EDC1F4AA4EC0097FC7C /* PLSettingCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLSettingCell.m; sourceTree = "<group>"; };
+		76C16EDE1F4AA50F0097FC7C /* PLSettingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLSettingController.h; sourceTree = "<group>"; };
+		76C16EDF1F4AA50F0097FC7C /* PLSettingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLSettingController.m; sourceTree = "<group>"; };
+		76C16EE11F4AA5240097FC7C /* PLCacheController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLCacheController.h; sourceTree = "<group>"; };
+		76C16EE21F4AA5240097FC7C /* PLCacheController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLCacheController.m; sourceTree = "<group>"; };
+		76C16EE41F4AA9100097FC7C /* SettingArrowItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingArrowItem.h; sourceTree = "<group>"; };
+		76C16EE51F4AA9100097FC7C /* SettingArrowItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingArrowItem.m; sourceTree = "<group>"; };
 		76C81D761F46C86800D08CE4 /* PLDiscoverTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLDiscoverTableViewController.h; sourceTree = "<group>"; };
 		76C81D771F46C86800D08CE4 /* PLDiscoverTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLDiscoverTableViewController.m; sourceTree = "<group>"; };
 		76C81D791F46C89400D08CE4 /* PLBaseClubController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLBaseClubController.h; sourceTree = "<group>"; };
@@ -165,8 +239,6 @@
 		76E52DBC1F455C7E007C574A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		76E52DBE1F455C7E007C574A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../AppDelegate.h; sourceTree = "<group>"; };
 		76E52DBF1F455C7E007C574A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ../AppDelegate.m; sourceTree = "<group>"; };
-		76E52DC11F455C7E007C574A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../ViewController.h; sourceTree = "<group>"; };
-		76E52DC21F455C7E007C574A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../ViewController.m; sourceTree = "<group>"; };
 		76E52DC51F455C7E007C574A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		76E52DCA1F455C7E007C574A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76E52DCC1F455C7E007C574A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -275,7 +347,7 @@
 			children = (
 				76BE3DF41F46672500357DB0 /* Model */,
 				76BE3DF31F46671F00357DB0 /* View */,
-				76BE3DF21F46671800357DB0 /* Controller */,
+				76C16EB21F4A6D9B0097FC7C /* Controller */,
 			);
 			path = "Message(信息)";
 			sourceTree = "<group>";
@@ -321,8 +393,6 @@
 				76A341421F45914400639F68 /* Category */,
 				76E52DBE1F455C7E007C574A /* AppDelegate.h */,
 				76E52DBF1F455C7E007C574A /* AppDelegate.m */,
-				76E52DC11F455C7E007C574A /* ViewController.h */,
-				76E52DC21F455C7E007C574A /* ViewController.m */,
 				76A341521F4591DC00639F68 /* CYConst.h */,
 				76A341531F4591DC00639F68 /* CYConst.m */,
 				76A341551F4591EE00639F68 /* PrefixHeader.pch */,
@@ -352,6 +422,10 @@
 			children = (
 				76A3416B1F4596A800639F68 /* VistorView.h */,
 				76A3416C1F4596A800639F68 /* VistorView.m */,
+				76C16E9D1F4A5ADE0097FC7C /* VistorView1.h */,
+				76C16E9E1F4A5ADE0097FC7C /* VistorView1.m */,
+				76C16EA01F4A5AEA0097FC7C /* VistorView2.h */,
+				76C16EA11F4A5AEA0097FC7C /* VistorView2.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -441,13 +515,8 @@
 		76BE3DF11F4666E600357DB0 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-			);
-			name = Controller;
-			sourceTree = "<group>";
-		};
-		76BE3DF21F46671800357DB0 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
+				76C16E9A1F4A599E0097FC7C /* PLFriendTableViewController.h */,
+				76C16E9B1F4A599E0097FC7C /* PLFriendTableViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -455,6 +524,16 @@
 		76BE3DF31F46671F00357DB0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				76C16EA31F4A5EBC0097FC7C /* PLButton.h */,
+				76C16EA41F4A5EBC0097FC7C /* PLButton.m */,
+				76C16EA61F4A5ED40097FC7C /* PLCustomView.h */,
+				76C16EA71F4A5ED40097FC7C /* PLCustomView.m */,
+				76C16EA91F4A5EE90097FC7C /* PLMessageCell.h */,
+				76C16EAA1F4A5EE90097FC7C /* PLMessageCell.m */,
+				76C16EAC1F4A5F050097FC7C /* PLScrollView.h */,
+				76C16EAD1F4A5F050097FC7C /* PLScrollView.m */,
+				76C16EAF1F4A5F190097FC7C /* PLShareView.h */,
+				76C16EB01F4A5F190097FC7C /* PLShareView.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -473,6 +552,8 @@
 		76BE3DF51F46673600357DB0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				76C16ED21F4AA1C20097FC7C /* HeadView.h */,
+				76C16ED31F4AA1C20097FC7C /* HeadView.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -480,6 +561,8 @@
 		76BE3DF61F46673C00357DB0 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				76C16ED51F4AA4860097FC7C /* PLMyTableViewController.h */,
+				76C16ED61F4AA4860097FC7C /* PLMyTableViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -487,6 +570,10 @@
 		76BE3DF71F46675300357DB0 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				76C16EDE1F4AA50F0097FC7C /* PLSettingController.h */,
+				76C16EDF1F4AA50F0097FC7C /* PLSettingController.m */,
+				76C16EE11F4AA5240097FC7C /* PLCacheController.h */,
+				76C16EE21F4AA5240097FC7C /* PLCacheController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -494,6 +581,10 @@
 		76BE3DF81F46675B00357DB0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				76C16ED81F4AA4DA0097FC7C /* PLFootView.h */,
+				76C16ED91F4AA4DA0097FC7C /* PLFootView.m */,
+				76C16EDB1F4AA4EC0097FC7C /* PLSettingCell.h */,
+				76C16EDC1F4AA4EC0097FC7C /* PLSettingCell.m */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -507,8 +598,45 @@
 				76BE3E101F466B8F00357DB0 /* SettingItem.m */,
 				76BE3E121F466C8E00357DB0 /* SettingSwichItem.h */,
 				76BE3E131F466C8E00357DB0 /* SettingSwichItem.m */,
+				76C16EE41F4AA9100097FC7C /* SettingArrowItem.h */,
+				76C16EE51F4AA9100097FC7C /* SettingArrowItem.m */,
 			);
 			name = Model;
+			sourceTree = "<group>";
+		};
+		76C16EB21F4A6D9B0097FC7C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				76C16EB41F4A6DFE0097FC7C /* PLBaseViewController.h */,
+				76C16EB51F4A6DFE0097FC7C /* PLBaseViewController.m */,
+				76C16EB71F4A6E190097FC7C /* PLContaintViewController.h */,
+				76C16EB81F4A6E190097FC7C /* PLContaintViewController.m */,
+				76C16EBA1F4A6E310097FC7C /* PLWebViewController.h */,
+				76C16EBB1F4A6E310097FC7C /* PLWebViewController.m */,
+				76C16EB31F4A6DA70097FC7C /* SubController */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		76C16EB31F4A6DA70097FC7C /* SubController */ = {
+			isa = PBXGroup;
+			children = (
+				76C16EBD1F4A6E630097FC7C /* PLActivityTableViewController.h */,
+				76C16EBE1F4A6E630097FC7C /* PLActivityTableViewController.m */,
+				76C16EC01F4A6E8D0097FC7C /* PLCompetitionTableViewController.h */,
+				76C16EC11F4A6E8D0097FC7C /* PLCompetitionTableViewController.m */,
+				76C16EC31F4A6EA70097FC7C /* PLFunnyTableViewController.h */,
+				76C16EC41F4A6EA70097FC7C /* PLFunnyTableViewController.m */,
+				76C16EC61F4A6EC40097FC7C /* PLGoverTableViewController.h */,
+				76C16EC71F4A6EC40097FC7C /* PLGoverTableViewController.m */,
+				76C16EC91F4A6EDA0097FC7C /* PLMessageTableViewController.h */,
+				76C16ECA1F4A6EDA0097FC7C /* PLMessageTableViewController.m */,
+				76C16ECC1F4A6EF80097FC7C /* PLTacticTableViewController.h */,
+				76C16ECD1F4A6EF80097FC7C /* PLTacticTableViewController.m */,
+				76C16ECF1F4A6F130097FC7C /* PLVideoViewController.h */,
+				76C16ED01F4A6F130097FC7C /* PLVideoViewController.m */,
+			);
+			name = SubController;
 			sourceTree = "<group>";
 		};
 		76E52DAF1F455C7E007C574A = {
@@ -732,7 +860,7 @@
 /* Begin PBXShellScriptBuildPhase section */
 		22A75BEC20A334C40DF5882A /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 12;
 			files = (
 			);
 			inputPaths = (
@@ -852,7 +980,7 @@
 		};
 		A9F43A818410541C39208BE6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 8;
+			buildActionMask = 12;
 			files = (
 			);
 			inputPaths = (
@@ -860,7 +988,7 @@
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
-			runOnlyForDeploymentPostprocessing = 1;
+			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-PL_LOL/Pods-PL_LOL-resources.sh\"\n";
 			showEnvVarsInLog = 0;
@@ -872,30 +1000,46 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76C16EDA1F4AA4DA0097FC7C /* PLFootView.m in Sources */,
 				76BE3E141F466C8E00357DB0 /* SettingSwichItem.m in Sources */,
 				76BE3E051F46691700357DB0 /* PLListItem.m in Sources */,
+				76C16EE61F4AA9100097FC7C /* SettingArrowItem.m in Sources */,
+				76C16E9F1F4A5ADE0097FC7C /* VistorView1.m in Sources */,
+				76C16ED71F4AA4860097FC7C /* PLMyTableViewController.m in Sources */,
+				76C16EB91F4A6E190097FC7C /* PLContaintViewController.m in Sources */,
 				76BE3E431F46957900357DB0 /* TeamView.m in Sources */,
 				76A341511F45914400639F68 /* UIView+Frame.m in Sources */,
 				76BE3DED1F4665A500357DB0 /* TencentAccountModel.m in Sources */,
 				76BE3E201F468F2500357DB0 /* PLTeamScrollView.m in Sources */,
 				76BE3E171F466DF200357DB0 /* PLLoginBackViewController.m in Sources */,
 				76A3414F1F45914400639F68 /* UIBarButtonItem+Extension.m in Sources */,
+				76C16EB61F4A6DFE0097FC7C /* PLBaseViewController.m in Sources */,
 				76BE3E081F46695600357DB0 /* PLMessageItem.m in Sources */,
+				76C16EE01F4AA50F0097FC7C /* PLSettingController.m in Sources */,
+				76C16ECB1F4A6EDA0097FC7C /* PLMessageTableViewController.m in Sources */,
 				76A341501F45914400639F68 /* UIImage+RenderingMode.m in Sources */,
 				76A341601F45932800639F68 /* CYRefreshTool.m in Sources */,
+				76C16EBF1F4A6E630097FC7C /* PLActivityTableViewController.m in Sources */,
 				76BE3E0E1F466B1700357DB0 /* SettingGroupItem.m in Sources */,
 				76BE3E2F1F46901F00357DB0 /* PLUserCell.m in Sources */,
 				76C81D811F46C8EC00D08CE4 /* PLPersonController.m in Sources */,
-				76E52DC31F455C7E007C574A /* ViewController.m in Sources */,
+				76C16EAE1F4A5F050097FC7C /* PLScrollView.m in Sources */,
+				76C16EAB1F4A5EE90097FC7C /* PLMessageCell.m in Sources */,
 				76BE3E2C1F46900D00357DB0 /* PLClubView.m in Sources */,
 				76A3415E1F45932800639F68 /* CYCacheTool.m in Sources */,
+				76C16EC21F4A6E8D0097FC7C /* PLCompetitionTableViewController.m in Sources */,
 				76A3414D1F45914400639F68 /* NSDate+time.m in Sources */,
+				76C16ED41F4AA1C20097FC7C /* HeadView.m in Sources */,
 				76BE3E021F4668A100357DB0 /* UserInfoModel.m in Sources */,
 				76C81D7E1F46C8D500D08CE4 /* PLClubNowController.m in Sources */,
+				76C16EDD1F4AA4EC0097FC7C /* PLSettingCell.m in Sources */,
+				76C16EE31F4AA5240097FC7C /* PLCacheController.m in Sources */,
 				76BE3E1A1F466E1C00357DB0 /* PLLoginViewController.m in Sources */,
 				76A341611F45932800639F68 /* CYShareTool.m in Sources */,
+				76C16EC81F4A6EC40097FC7C /* PLGoverTableViewController.m in Sources */,
 				76A3415F1F45932800639F68 /* CYNetWorkTools.m in Sources */,
 				76BE3DFF1F46684100357DB0 /* TeamModel.m in Sources */,
+				76C16EA51F4A5EBC0097FC7C /* PLButton.m in Sources */,
 				76A341541F4591DC00639F68 /* CYConst.m in Sources */,
 				76BE3E231F468FC800357DB0 /* PLDiscoverCell.m in Sources */,
 				76A3414E1F45914400639F68 /* NSMutableArray+array.m in Sources */,
@@ -903,14 +1047,22 @@
 				76A3416D1F4596A800639F68 /* VistorView.m in Sources */,
 				76E52DC01F455C7E007C574A /* AppDelegate.m in Sources */,
 				76C81D781F46C86800D08CE4 /* PLDiscoverTableViewController.m in Sources */,
+				76C16ED11F4A6F130097FC7C /* PLVideoViewController.m in Sources */,
+				76C16E9C1F4A599E0097FC7C /* PLFriendTableViewController.m in Sources */,
 				76BE3E321F46904500357DB0 /* PLCustomBtn.m in Sources */,
+				76C16EC51F4A6EA70097FC7C /* PLFunnyTableViewController.m in Sources */,
 				76A341671F4593C200639F68 /* TabBarController.m in Sources */,
 				76E52DBD1F455C7E007C574A /* main.m in Sources */,
+				76C16EBC1F4A6E310097FC7C /* PLWebViewController.m in Sources */,
 				76BE3E261F468FDE00357DB0 /* PLSectionCell.m in Sources */,
 				76C81D7B1F46C89400D08CE4 /* PLBaseClubController.m in Sources */,
 				76BE3E111F466B8F00357DB0 /* SettingItem.m in Sources */,
 				76BE3E291F468FEF00357DB0 /* PLView.m in Sources */,
+				76C16EB11F4A5F190097FC7C /* PLShareView.m in Sources */,
+				76C16EA21F4A5AEA0097FC7C /* VistorView2.m in Sources */,
+				76C16ECE1F4A6EF80097FC7C /* PLTacticTableViewController.m in Sources */,
 				76BE3E1D1F466E2900357DB0 /* PLOtherLoginViewController.m in Sources */,
+				76C16EA81F4A5ED40097FC7C /* PLCustomView.m in Sources */,
 				76A341641F45937800639F68 /* NavigationController.m in Sources */,
 				76A3416A1F45965000639F68 /* PLVisitorViewController.m in Sources */,
 			);
@@ -1062,12 +1214,14 @@
 			baseConfigurationReference = 252769E3E995B0102FE070CC /* Pods-PL_LOL.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = "PL_LOL/Others(其它)/PrefixHeader.pch";
 				INFOPLIST_FILE = PL_LOL/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PL.PL-LOL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -1076,12 +1230,14 @@
 			baseConfigurationReference = 4886C031663D54B5682B3BA9 /* Pods-PL_LOL.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = "PL_LOL/Others(其它)/PrefixHeader.pch";
 				INFOPLIST_FILE = PL_LOL/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PL.PL-LOL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = "arm64 armv7 armv7s";
 			};
 			name = Release;
 		};

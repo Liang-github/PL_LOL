@@ -18,6 +18,7 @@
     UINavigationBar *bar = [UINavigationBar appearance];
     
     bar.titleTextAttributes = @{NSForegroundColorAttributeName:[UIColor colorWithRed:219/255.0 green:170/255.0 blue:117/255.0 alpha:1],NSFontAttributeName:[UIFont systemFontOfSize:18]};
+    [bar setBackgroundImage:[UIImage imageNamed:@"nav_bar_bg_for_seven"] forBarMetrics:UIBarMetricsDefault];
 }
 - (void)viewDidLoad {
     [super viewDidLoad];

@@ -1,0 +1,15 @@
+//
+//  PLSettingCell.h
+//  PL_LOL
+//
+//  Created by PengLiang on 2017/8/21.
+//  Copyright © 2017年 PengLiang. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+@class SettingItem;
+@interface PLSettingCell : UITableViewCell
+@property (nonatomic, strong) SettingItem *item;
+
++ (instancetype)cellWithIdentifier:(UITableView *)tableView;
+@end

@@ -56,13 +56,16 @@
     
     _tentcentLoginBtn = [[UIButton alloc] init];
     _tentcentLoginBtn.frame = CGRectMake(20, 220, kScreenW - 40, 50);
-    [_tentcentLoginBtn setBackgroundImage:[UIImage imageNamed:@"icon_qq"] forState:UIControlStateNormal];
+    [_tentcentLoginBtn setImage:[UIImage imageNamed:@"icon_qq"] forState:UIControlStateNormal];
+    [_tentcentLoginBtn setTitle:@"手机QQ快速登录" forState:0];
+    [_tentcentLoginBtn setBackgroundImage:[UIImage imageNamed:@"btn_blue_nor"] forState:UIControlStateNormal];
+    _tentcentLoginBtn.titleLabel.font = [UIFont systemFontOfSize:14];
     [_tentcentLoginBtn addTarget:self action:@selector(tentcentBtnClick) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:_tentcentLoginBtn];
     
     _vistorBtn = [[UIButton alloc] init];
     _vistorBtn.frame = CGRectMake(kScreenW - 90, kScreenH - 50, 70, 30);
-    _vistorBtn.backgroundColor = [UIColor blueColor];
+    _vistorBtn.backgroundColor = [UIColor blackColor];
     [_vistorBtn setTitle:@"游客进入" forState:0];
     _vistorBtn.titleLabel.font = [UIFont systemFontOfSize:14];
     [_vistorBtn addTarget:self action:@selector(vistorBtnClick) forControlEvents:UIControlEventTouchUpInside];

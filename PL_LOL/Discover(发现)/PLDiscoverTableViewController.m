@@ -7,7 +7,7 @@
 //
 
 #import "PLDiscoverTableViewController.h"
-#import "VistorView.h"
+#import "VistorView1.h"
 #import "CYNetWorkTools.h"
 #import "DiscoverModel.h"
 #import "TeamModel.h"
@@ -36,7 +36,7 @@ static NSString *const Cell = @"PLCell";
 }
 //加载访客视图
 - (void)setVistorView {
-    self.view = [[VistorView alloc] init];
+    self.view = [[VistorView1 alloc] init];
 }
 - (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
